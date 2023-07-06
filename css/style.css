@@ -1,0 +1,56 @@
+.btn-task{
+    background-color: tomato;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    padding: 8px 16px;
+    color: white;
+}
+
+input{
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-img-top{
+    width: 300px;
+    height: 300px;
+}
+
+.block{
+    display: block;
+}
+.d-none{
+    display: none;
+}
+
+.btn-done{
+    background-color: #084708;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    padding: 8px 16px;
+    color: white;
+}
+
+.btn-remove{
+    background-color: #9f1111;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    padding: 8px 16px;
+    color: white;
+}
+
+th, td{
+    padding: 10px;
+    margin: 10px;
+    
+}
+ .details{
+    background-color: lightblue;
+    border: 1px solid lightgray;
+    padding: 10px 20px;
+    margin: 0px auto;
+    border-radius: 10px !important;
+    
+ }
